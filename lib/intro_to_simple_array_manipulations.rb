@@ -22,4 +22,7 @@
     array.shift(2)
   end
   
+  def using_concat(array, element)
+    
+  
   
