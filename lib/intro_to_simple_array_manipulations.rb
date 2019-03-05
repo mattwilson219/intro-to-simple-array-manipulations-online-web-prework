@@ -1,3 +1,3 @@
 def using_push(array, string)
-  array.string.push
+  array.push string
   end
